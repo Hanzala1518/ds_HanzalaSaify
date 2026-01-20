@@ -97,8 +97,8 @@ Run these notebooks directly in your browser:
 
 | Notebook | Colab Link |
 |----------|------------|
-| **Notebook 1** — Data Preparation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/ds_hanzala_saify/blob/main/notebook_1.ipynb) |
-| **Notebook 2** — Sentiment Analysis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/ds_hanzala_saify/blob/main/notebook_2.ipynb) |
+| **Notebook 1** — Data Preparation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gbeVfpj7QwakfwO-hPLSm4vGKeYOZEgA?usp=sharing) |
+| **Notebook 2** — Sentiment Analysis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14ejW7aFbG5-MuGjfrBgrZBaqm819Yzyp?usp=sharing) |
 
 > **Note:** Replace `YOUR_USERNAME` with your GitHub username after pushing to a public repo.
 
@@ -160,7 +160,7 @@ pip install -r requirements.txt
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/ds_hanzala_saify.git
+git clone https://github.com/Hanzala1518/ds_HanzalaSaify.git
 cd ds_hanzala_saify
 
 # Create virtual environment (recommended)
@@ -173,19 +173,6 @@ pip install -r requirements.txt
 # Run notebooks in order
 jupyter notebook notebook_1.ipynb
 jupyter notebook notebook_2.ipynb
-```
-
----
-
-## Report
-
-The full research report is available in `ds_report.md`. Convert to PDF using:
-
-```bash
-# Using pandoc
-pandoc ds_report.md -o ds_report.pdf
-
-# Or use VS Code's Markdown PDF extension
 ```
 
 ---
