@@ -1,0 +1,36 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Generated HTML report (PDF can be generated from markdown)
+ds_report.html
+
+# Generated CSV files (these are created by running the notebooks)
+# Uncomment below if you don't want to track generated data:
+# csv_files/trader_cleaned.csv
+# csv_files/trader_daily_metrics.csv
+# csv_files/sentiment_cleaned.csv
+# csv_files/merged_trader_sentiment.csv

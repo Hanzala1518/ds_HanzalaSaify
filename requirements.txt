@@ -1,0 +1,22 @@
+# Trader Behavior & Market Sentiment Analysis
+# Required Python libraries
+
+# Data manipulation
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Statistical analysis
+scipy>=1.9.0
+
+# Machine learning (clustering, PCA)
+scikit-learn>=1.1.0
+
+# Jupyter notebook support (minimal - VS Code handles the rest)
+ipykernel>=6.0.0
+
+# Report generation
+markdown>=3.4.0
